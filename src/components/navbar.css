@@ -1,0 +1,39 @@
+nav{
+  
+    font-family: 'Patrick Hand', cursive;
+    background-color: darkslategrey;
+    background-size: cover;
+
+    
+}
+.Link {
+    text-decoration: none;
+    color: blanchedalmond;
+    font-size: large;
+margin-left: 100px;
+
+}
+ul {
+    padding : 0;
+  }
+  
+  ul li{
+    display: inline-block;
+    margin : -0px;
+    padding : 30px;
+    color: blanchedalmond;
+  }
+  
+  ul li:hover{
+
+      color:black 
+  }
+.links {
+       float : right;
+       margin-top: -75px;
+       
+       
+   }
+.vector {
+    padding : 40px;
+}

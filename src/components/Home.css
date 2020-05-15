@@ -1,0 +1,23 @@
+.homeHeader {
+  padding-top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;}
+
+h2, h1, h3{
+  font-size: small;
+  text-align: center;
+  padding-bottom: 8px;
+}
+
+.clear {
+  background-color: black;
+  color: aliceblue;
+}
+
+.bandeau{
+  border: solid 0.8em;
+  border-image: url('https://www.vallorbe.com/common/img/library//1350x404_croppedcenter/Bois.jpg')100;
+ 
+}
+  

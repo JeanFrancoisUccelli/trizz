@@ -1,0 +1,26 @@
+
+  #AppleButton {
+    display: flex;
+    justify-content: center;
+    max-width : 100%;
+    margin: auto;
+
+  }
+
+.App {
+  background-image: url('../images/fonds.jpg');
+  background-size : cover;
+  background-repeat: no-repeat;
+  
+  
+}
+.paragraph{
+  text-align: center;
+}
+.center{
+  position : relative;
+  align-content: center;
+}
+.titleArticle{
+font-size: xx-small;
+}

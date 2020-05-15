@@ -1,0 +1,29 @@
+.articles{
+    display :flex; 
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    height: 50px;
+    margin: auto;
+}
+
+.article{
+    max-height: 100px;
+    margin: 50px;
+}
+.ListMap{
+    
+    min-height:min-content;
+    
+}
+
+.reforest{
+    width: 10%;
+}
+
+.action{
+    display: inline-flexbox;
+    flex-flow: row nowrap;
+    justify-content: center;
+    text-align: center;
+}

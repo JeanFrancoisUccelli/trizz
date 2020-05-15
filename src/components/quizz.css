@@ -1,0 +1,53 @@
+
+#recap {
+    padding-top: 50px;
+}
+
+#gameOver {
+    padding-top: 50px;
+}
+.questionPage {
+    width: 30%;
+    min-height: 250px; 
+    margin: auto;
+    align-items: center;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-around;
+    align-items: stretch;
+}
+
+.options {
+    padding: 8px;
+    border: 2px solid #000;
+    cursor: pointer;
+    background-color: teal;
+}
+
+.floating{
+    filter:Alpha(opacity=100);
+    -moz-opacity:0.80;
+    opacity: 0.80;
+}
+
+.category{
+    margin-top: 44px;
+ text-align: center;
+}
+
+.choose{
+    padding-top: 50px;
+}
+
+.question{
+   
+   width: 100%;
+   justify-content: center;
+}
+
+.column{
+justify-content: center;    
+
+width: 20%;
+}
+
