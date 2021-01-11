@@ -27,7 +27,7 @@ function CardExampleLinkCard() {
   function getArticles() {
     const url = 'http://newsapi.org/v2/everything?' +
       'q=Reforestation&' +
-      `from=2020-${month}-01&` +
+      `from=2021-${month}-01&` +
       'sortBy=publishedAt&' +
       'pageSize=12&' +
       'apiKey=82857ac8e0db4fd59422fc300f2ef480';
